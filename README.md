@@ -14,7 +14,10 @@ This project analyzes a dataset of 32,000+ borrowers to identify key drivers of 
 Lenders need to understand which customers are likely to default in order to reduce losses and improve portfolio performance.
 
 ---
+## Dashboard Preview
+![Dashboard](Credit_Analysis_Dashboard.png)
 
+---
 ## 🔹Key Insights
 - High burden borrowers show 72% default rate
 - Low income + large loan segment reaches 76% default
@@ -38,7 +41,4 @@ Lenders need to understand which customers are likely to default in order to red
 ## 🔹Output
 A decision-focused dashboard highlighting risk drivers and actionable business insights.
 
----
 
-## Dashboard Preview
-![Dashboard](Credit_Analysis_Dashboard.png)
