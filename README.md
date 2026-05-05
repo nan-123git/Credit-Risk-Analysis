@@ -1,4 +1,4 @@
-# 📊 Credit Risk & Portfolio Analysis
+# 📊 Credit Risk & Portfolio Analysis | Excel
 Author: **Nancy Gupta**  
 Role: **Aspiring Data Analyst**
 
